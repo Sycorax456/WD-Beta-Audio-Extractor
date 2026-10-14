@@ -1,0 +1,3 @@
+# Only needed for the graphical interfaces (the command-line tools use the standard library).
+# Solo hace falta para las interfaces graficas (las herramientas de consola usan la biblioteca estandar).
+customtkinter
